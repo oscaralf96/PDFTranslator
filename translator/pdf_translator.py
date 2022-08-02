@@ -1,5 +1,5 @@
 # my functions
-from conversions import *
+from .conversions import *
 
 # external libraries
 import pytesseract
